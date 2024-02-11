@@ -1,5 +1,5 @@
 import React from 'react'
-import HomeHead from '../Components/homeHead'
+import HomeHead from '../Components/HomeHead'
 import HomeCard from '../Components/HomeCard'
 import { homeCardContents } from '../Contants'
 
