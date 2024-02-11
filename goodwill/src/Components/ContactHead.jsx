@@ -33,7 +33,7 @@ const ContactHead = () => {
                     </div>
                 </div>
             </div>
-            <div className=' my-auto mx-auto md:h-[300px] md:w-[300px] h-[200px] w-[200px]'>
+            <div className=' my-auto mx-auto md:h-[301px] md:w-[301px] h-[200px] w-[200px]'>
                 <img src={saraswatimaa} alt="" />
             </div>
 
